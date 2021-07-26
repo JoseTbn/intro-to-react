@@ -5,6 +5,7 @@ class TodoList extends React.Component {
     render() {
         return (
             <div>
+            <hr />
 <ul>
     <li><input type="checkbox" />Learn React</li>
     <li><input type="checkbox" />Be Awesome!</li>
